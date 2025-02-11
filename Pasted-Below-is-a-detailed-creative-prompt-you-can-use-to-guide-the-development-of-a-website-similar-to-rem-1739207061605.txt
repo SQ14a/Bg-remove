@@ -1,0 +1,72 @@
+Below is a detailed creative prompt you can use to guide the development of a website similar to remove.bg, with all core features included—except any pricing details:
+
+---
+
+**Website Creation Prompt: Automated Background Removal Service**
+
+**Objective:**  
+Design and build a professional, intuitive, and fully responsive website that offers automated image background removal. The focus is on delivering a seamless user experience, advanced functionality, and a clean, modern aesthetic. Note that pricing or subscription information should not be included anywhere on the site.
+
+**Key Features & Functionality:**
+
+1. **Homepage & Landing Experience:**  
+   - **Hero Section:**  
+     - A striking, minimalist hero area with a clear headline (e.g., “Instantly Remove Image Backgrounds”) and a brief tagline explaining the service.  
+     - A prominent call-to-action (CTA) inviting users to start uploading their images (e.g., “Get Started”).
+   - **Image Upload Interface:**  
+     - Drag-and-drop area for easy image uploads.  
+     - A secondary “Browse Files” button for manual selection.  
+     - Support for multiple image formats (JPG, PNG, etc.).
+   - **Real-Time Processing Preview:**  
+     - A display area that shows the original image and the processed image side-by-side (before/after comparison) immediately after processing.
+   - **Bulk Processing Capability:**  
+     - An option for users to upload and process multiple images at once, with a progress indicator for batch operations.
+
+2. **Processing & Customization:**  
+   - **Automated Background Removal:**  
+     - Integration with an advanced image processing algorithm or API to automatically remove backgrounds.
+   - **Advanced Settings (Optional):**  
+     - Tools for edge refinement or additional customization (e.g., adjustable sensitivity or smoothing options) for users who desire more control over the results.
+
+3. **User Guidance & Support:**  
+   - **Tutorial/How-It-Works Section:**  
+     - A step-by-step guide or visual walkthrough showing how the service works, using simple language and graphics.
+   - **FAQ/Help Center:**  
+     - A section addressing common questions about file formats, processing times, privacy, and other concerns.
+   - **Contact & Feedback:**  
+     - A simple contact form or support chat option for users to reach out with questions or feedback.
+
+4. **Technical & Performance Requirements:**  
+   - **Frontend:**  
+     - Utilize modern frameworks (e.g., React, Vue.js, or similar) to create a dynamic, smooth user interface.  
+     - Responsive design that adapts to desktop, tablet, and mobile screens.
+   - **Backend & Processing:**  
+     - Implement a robust server-side system (e.g., using Node.js, Python, etc.) that securely handles image uploads and processing.  
+     - Integrate with a reliable background removal API or build a custom algorithm ensuring fast processing times.
+   - **Security & Privacy:**  
+     - Secure file upload system with encryption and data privacy best practices.  
+     - Automatic deletion of uploaded images after processing to protect user privacy.
+
+5. **Branding & Visual Design:**  
+   - **Aesthetic:**  
+     - A modern, clean, and minimalistic design that emphasizes ease of use and technical sophistication.  
+     - A professional color palette (for example, cool blues, neutral grays, and clean whites) that communicates trust and efficiency.
+   - **Logo & Identity:**  
+     - Create a unique, memorable logo that reflects the service’s innovative approach to image editing.
+   - **UI Elements:**  
+     - Use intuitive icons, clear typography, and ample whitespace to keep the interface uncluttered and user-friendly.
+
+6. **Additional Sections (Without Pricing):**  
+   - **About Us:**  
+     - A page detailing the mission, vision, and technology behind the service.
+   - **Case Studies/Examples:**  
+     - Showcase sample images and real-world use cases demonstrating the effectiveness of the background removal tool.
+   - **API Documentation (Optional):**  
+     - If the service provides an API for developers, include detailed documentation and sample code—but without any pricing tiers.
+
+---
+
+**End Goal:**  
+The final website should offer users a streamlined experience where they can quickly upload images, see instant results, and download the background-removed images with minimal effort. Emphasis should be on clarity, speed, and a professional look that instills confidence in the service, while completely omitting any pricing details.
+
+This prompt should serve as a comprehensive guide for designers, developers, and content creators to collaborate and build a compelling background removal website. Feel free to adapt the details as needed to match your vision and technical requirements.
